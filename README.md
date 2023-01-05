@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
@@ -580,6 +581,8 @@ Alright, enough talk, let's learn!
 
 But don't forget to do coding problems from above while you learn!
 
+=======
+>>>>>>> d4a8062 (dividing written content for easier to read)
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement here, you're just watching videos and taking notes! Yay!
