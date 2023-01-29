@@ -18,3 +18,8 @@ Thumbs.db
 
 # Sublime Files
 .sublime
+
+/books
+/leetcode/node_modules
+/leetcode/Performance.xlsx
+/leetcode/Performance.xlsx - Shortcut.lnk
