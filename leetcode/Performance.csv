@@ -1,0 +1,34 @@
+Date ,Difficulty,Problem #,Problem title,Speed,Space,Attempts,Time ,Concepts,Full comment
+28-03-2022,,1929,Concatenation of Array,55.57%,17.22%,1,15.00,,"Runtime:�85 ms, faster than 55.57% of Python online submissions for Concatenation of Array.Memory Usage:�13.9 MB, less than 17.22% of Python online submissions for Concatenation of Array."
+29-03-2022,,74,search a 2D matrix,93.10%,46.15%,5,15.00,,
+30-03-2022,,1920,Build Array from Permutation,72.34%,9.87%,1,15.00,,"Runtime: 108 ms, faster than 72.34% of Python online submissions for Build Array from Permutation.Memory Usage: 14 MB, less than 9.87% of Python online submissions for Build Array from Permutation."
+30-03-2022,,1,Two Sum,35.68%,96.03%,2,15.00,,"Runtime: 696 ms, faster than 35.68% of Python3 online submissions for Two Sum. Memory Usage: 14.9 MB, less than 96.03% of Python3 online submissions for Two Sum."
+31-03-2022,,9,Palindrome Number,98.87%,63.97%,3,10,,"Runtime: 48 ms, faster than 98.87% of Python3 online submissions for Palindrome Number. Memory Usage: 13.8 MB, less than 63.97% of Python3 online submissions for Palindrome Number."
+31-03-2022,,13,Roman to Integer,90.61%,80.47%,2,20.00,,"Runtime: 48 ms, faster than 90.61% of Python3 online submissions for Roman to Integer. Memory Usage: 13.8 MB, less than 80.47% of Python3 online submissions for Roman to Integer."
+01-04-2022,,334,Reverse String,23.74%,48.50%,1,6.00,,"Runtime: 337 ms, faster than 23.74% of Python3 online submissions for Reverse String. Memory Usage: 18.4 MB, less than 48.52% of Python3 online submissions for Reverse String."
+01-04-2022,,14,Longest Common Prefix,60.12%,53.25%,1,15.00,,"Runtime: 46 ms, faster than 60.12% of Python3 online submissions for Longest Common Prefix. Memory Usage: 14 MB, less than 53.25% of Python3 online submissions for Longest Common Prefix."
+02-04-2022,,20,Valid Parentheses,NC,NC,3,NC,,
+02-04-2022,,680,Valid Palindrome II,NC,NC,1,NC,,
+04-04-2022,,1757,Recyclable and Low Fat Products,55.09%,100.00%,1,10.00,,"Runtime: 510 ms, faster than 55.09% of MySQL online submissions for Recyclable and Low Fat Products.Memory Usage: 0B, less than 100.00% of MySQL online submissions for Recyclable and Low Fat Products."
+04-04-2022,,1693,Daily Leads and Partners,19.13%,100.00%,1,15.00,,"Runtime: 668 ms, faster than 19.13% of MySQL online submissions for Daily Leads and Partners. Memory Usage: 0B, less than 100.00% of MySQL online submissions for Daily Leads and Partners."
+04-04-2022,,1741,Find Total Time Spent by Each Employee,38.19%,100.00%,1,10.00,,"Runtime: 560 ms, faster than 38.19% of MySQL online submissions for Find Total Time Spent by Each Employee. Memory Usage: 0B, less than 100.00% of MySQL online submissions for Find Total Time Spent by Each Employee."
+23-04-2022,medium,2,Add Two Numbers,,,1,90,,
+24-04-2022,medium,3, Longest Substring Without Repeating Characters,,,2,160,,
+24-04-2022,easy,20,Valid Parentheses,NC,NC,3,NC,,
+24-04-2022,easy,21,Merge Two Sorted Lists,40.00%,33.00%,1,20,,"Runtime: 36 ms, faster than 39.79% of Python online submissions for Merge Two Sorted Lists. Memory Usage: 13.6 MB, less than 33.08% of Python online submissions for Merge Two Sorted Lists."
+24-04-2022,easy,20,Valid Parentheses,13.00%,34.00%,4,18,,"Runtime: 41 ms, faster than 13.33% of Python online submissions for Valid Parentheses. Memory Usage: 13.7 MB, less than 34.25% of Python online submissions for Valid Parentheses."
+26-04-2022,easy,26,Remove Duplicates from Sorted Array,NC,NC,1,20,,
+27-04-2022,easy,27,Remove Element,83.45%,38.12% ,1,11,,
+29-04-2022,easy,28,Implement strStr(),46.87%,99.72%,1,9,,"Runtime: 33 ms, faster than 46.87% of Python online submissions for Implement strStr(). Memory Usage: 13.1 MB, less than 99.72% of Python online submissions for Implement strStr()."
+29-04-2022,easy,35,Search Insert Position,NC,NC,2,40,,
+30-04-2022,easy,844,Backspace String Compare,35.84%,32.66%,2,13,,"Runtime: 29 ms, faster than 35.84% of Python online submissions for Backspace String Compare. Memory Usage: 13.5 MB, less than 32.66% of Python online submissions for Backspace String Compare."
+30-04-2022,easy,53,Maximum Subarray,NC,NC,2,18,,try Karbane�s algorithim 
+30-04-2022,easy,58,Length of Last Word,18.83%,6.07%,2,14,,"Runtime: 32 ms, faster than 18.83% of Python online submissions for Length of Last Word. Memory Usage: 14 MB, less than 6.07% of Python online submissions for Length of Last Word."
+03-05-2022,easy,66,Plus One,93.14%,71.13%,1,15,,"Runtime: 16 ms, faster than 93.14% of Python online submissions for Plus One. Memory Usage: 13.3 MB, less than 71.13% of Python online submissions for Plus One."
+10-05-2022,easy,643,Maximum Average Subarray I,NC,NC,NC,NC,,Time Limit Exceeded
+14-05-2022,easy,1512,Number of Good Pairs,NC,NC,NC,NC,Hash table,stuck
+15-05-2022,easy,771,Jewels and Stones,5.69%,8.65%,1,8,Hash table,"Runtime: 42 ms, faster than 5.69% of Python online submissions for Jewels and Stones. Memory Usage: 13.6 MB, less than 8.65% of Python online submissions for Jewels and Stones."
+15-05-2022,easy,1365,How Many Numbers Are Smaller Than the Current Number,19.90%,99.67%,1,12,loop,"Runtime: 463 ms, faster than 19.90% of Python online submissions for How Many Numbers Are Smaller Than the Current Number. Memory Usage: 13.1 MB, less than 99.67% of Python online submissions for How Many Numbers Are Smaller Than the Current "
+31-1-22,easy,1290,Convert Binary Number in a Linked List to Integer,86.6%,6.32%,1,14.5,linked List,
+31-1-22,easy,876,Middle of the Linked List,68.28%,51.67%,1,7,linked List,
+31-1-22,easy,83,Remove Duplicates from Sorted List,32.56%,23.71%,2,15,linked List,
