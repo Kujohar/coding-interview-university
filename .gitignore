@@ -20,6 +20,5 @@ Thumbs.db
 .sublime
 
 /books
-/leetcode/node_modules
+/leetcode/node
 /leetcode/Performance.xlsx
-/leetcode/"Performance.xlsx - Shortcut.lnk"
