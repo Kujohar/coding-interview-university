@@ -1,4 +1,6 @@
-Date ,Difficulty,Problem #,Problem title,Speed,Space,Attempts,Time ,Concepts,Full comment
+Date ,Difficulty,Problem #,Number of Students Unable to Eat Lunch
+Number of Students Unable to Eat Lunch
+,Speed,Space,Attempts,Time ,Queue,Full comment
 28-03-2022,,1929,Concatenation of Array,55.57%,17.22%,1,15.00,,"Runtime:�85 ms, faster than 55.57% of Python online submissions for Concatenation of Array.Memory Usage:�13.9 MB, less than 17.22% of Python online submissions for Concatenation of Array."
 29-03-2022,,74,search a 2D matrix,93.10%,46.15%,5,15.00,,
 30-03-2022,,1920,Build Array from Permutation,72.34%,9.87%,1,15.00,,"Runtime: 108 ms, faster than 72.34% of Python online submissions for Build Array from Permutation.Memory Usage: 14 MB, less than 9.87% of Python online submissions for Build Array from Permutation."
@@ -22,13 +24,21 @@ Date ,Difficulty,Problem #,Problem title,Speed,Space,Attempts,Time ,Concepts,Ful
 29-04-2022,easy,28,Implement strStr(),46.87%,99.72%,1,9,,"Runtime: 33 ms, faster than 46.87% of Python online submissions for Implement strStr(). Memory Usage: 13.1 MB, less than 99.72% of Python online submissions for Implement strStr()."
 29-04-2022,easy,35,Search Insert Position,NC,NC,2,40,,
 30-04-2022,easy,844,Backspace String Compare,35.84%,32.66%,2,13,,"Runtime: 29 ms, faster than 35.84% of Python online submissions for Backspace String Compare. Memory Usage: 13.5 MB, less than 32.66% of Python online submissions for Backspace String Compare."
-30-04-2022,easy,53,Maximum Subarray,NC,NC,2,18,,try Karbane�s algorithim 
+30-04-2022,easy,53,Maximum Subarray,NC,NC,2,18,,try Karbane's algorithim 
 30-04-2022,easy,58,Length of Last Word,18.83%,6.07%,2,14,,"Runtime: 32 ms, faster than 18.83% of Python online submissions for Length of Last Word. Memory Usage: 14 MB, less than 6.07% of Python online submissions for Length of Last Word."
 03-05-2022,easy,66,Plus One,93.14%,71.13%,1,15,,"Runtime: 16 ms, faster than 93.14% of Python online submissions for Plus One. Memory Usage: 13.3 MB, less than 71.13% of Python online submissions for Plus One."
 10-05-2022,easy,643,Maximum Average Subarray I,NC,NC,NC,NC,,Time Limit Exceeded
 14-05-2022,easy,1512,Number of Good Pairs,NC,NC,NC,NC,Hash table,stuck
 15-05-2022,easy,771,Jewels and Stones,5.69%,8.65%,1,8,Hash table,"Runtime: 42 ms, faster than 5.69% of Python online submissions for Jewels and Stones. Memory Usage: 13.6 MB, less than 8.65% of Python online submissions for Jewels and Stones."
 15-05-2022,easy,1365,How Many Numbers Are Smaller Than the Current Number,19.90%,99.67%,1,12,loop,"Runtime: 463 ms, faster than 19.90% of Python online submissions for How Many Numbers Are Smaller Than the Current Number. Memory Usage: 13.1 MB, less than 99.67% of Python online submissions for How Many Numbers Are Smaller Than the Current "
-31-1-22,easy,1290,Convert Binary Number in a Linked List to Integer,86.6%,6.32%,1,14.5,linked List,
-31-1-22,easy,876,Middle of the Linked List,68.28%,51.67%,1,7,linked List,
-31-1-22,easy,83,Remove Duplicates from Sorted List,32.56%,23.71%,2,15,linked List,
+31-1-23,easy,1290,Convert Binary Number in a Linked List to Integer,86.6%,6.32%,1,14.5,linked List,
+31-1-23,easy,876,Middle of the Linked List,68.28%,51.67%,1,7,linked List,
+31-1-23,easy,83,Remove Duplicates from Sorted List,32.56%,23.71%,2,15,linked List,
+5-2-23,easy,2535,Difference Between Element Sum and Digit Sum of an Array,65.63%,90.83%,1,15,linked List,
+5-2-23,easy,832,Flipping an image,95.5%,56.14%,1,15,linked List,
+6-2-23,easy,1614,Maximum Nesting Depth of the Parentheses,45.18%,48.7%,1,8,Stack,
+6-2-23,easy,1021,Remove Outermost Parentheses,89.78%,57.74%,1,13,Stack,
+6-2-23,easy,1700,Number of Students Unable to Eat Lunch,87.6%,15.32%,1,16,Queue,
+6-2-23,easy,933,Number of Recent Calls,6.25%,14.99%,3,15,Queue,
+9-2-23,easy,2108,Find First Palindromic String in the Array,27.57%,19.14%,2,10,linked List,
+
