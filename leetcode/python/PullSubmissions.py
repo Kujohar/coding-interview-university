@@ -32,7 +32,7 @@ response = requests.post(
 
 
 D = datetime.datetime.now()
-with open("../LeetCodeData" +
+with open("../LeetCodeData-" +
           D.strftime("%Y-%m-%d") +
           ".json", "w") as outfile:
     json.dump(response.json(), outfile)

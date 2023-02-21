@@ -22,3 +22,7 @@ Thumbs.db
 /books
 /leetcode/node
 /leetcode/Performance.xlsx
+
+basics/C#/*
+!basics/C#/Program.cs
+!basics/C#/C#.csproj
